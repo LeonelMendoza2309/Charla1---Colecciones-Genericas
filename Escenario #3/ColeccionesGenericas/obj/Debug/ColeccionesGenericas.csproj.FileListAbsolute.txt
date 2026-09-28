@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\bin\Debug\ColeccionesGenericas.exe.config
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\bin\Debug\ColeccionesGenericas.exe
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\bin\Debug\ColeccionesGenericas.pdb
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.Form1.resources
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.exe
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\obj\Debug\ColeccionesGenericas.pdb
+C:\Users\ADMIN\source\repos\ColeccionesGenericas\bin\Debug\config.xml
