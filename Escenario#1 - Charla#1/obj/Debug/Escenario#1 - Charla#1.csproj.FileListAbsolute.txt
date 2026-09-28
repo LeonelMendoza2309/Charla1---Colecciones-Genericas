@@ -1,0 +1,10 @@
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\obj\Debug\Escenario#1 - Charla#1.csproj.AssemblyReference.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\obj\Debug\Escenario_1___Charla_1.Properties.Resources.resources
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\obj\Debug\Escenario#1 - Charla#1.csproj.GenerateResource.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\obj\Debug\Escenario#1 - Charla#1.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\bin\Debug\Escenario#1 - Charla#1.exe.config
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\bin\Debug\Escenario#1 - Charla#1.exe
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\bin\Debug\Escenario#1 - Charla#1.pdb
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\obj\Debug\Escenario_1___Charla_1.Form1.resources
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\obj\Debug\Escenario#1 - Charla#1.exe
+C:\Users\Leonel Mendoza\Documents\HPA3\Escenario#1 - Charla#1\obj\Debug\Escenario#1 - Charla#1.pdb
