@@ -55,13 +55,6 @@ Para compilar y ejecutar los proyectos se necesita:
 
 ## Instalación y ejecución
 
-### Clonar el repositorio
-
-```bash
-git clone https://github.com/LeonelMendoza2309/Charla1---Colecciones-Genericas.git
-cd Charla1---Colecciones-Genericas
-```
-
 ### Abrir el proyecto
 
 1. Iniciar Visual Studio.
