@@ -21,7 +21,7 @@ Este repositorio contiene ejemplos prácticos sobre **Colecciones Genéricas en 
 ```text
 Charla1---Colecciones-Genericas/
 ├── Escenario#1 - Charla#1/         # Introducción a colecciones genéricas
-├── Escenario 2 - TryCatch/         # Manejo de excepciones con try-catch
+├── Escenario 2 - ErrorCatcher/         # Manejo de excepciones con try-catch
 ├── Escenario #3/                   # Escenario avanzado
 └── README.md                        # Documentación del repositorio
 ```
@@ -29,7 +29,7 @@ Charla1---Colecciones-Genericas/
 ### Escenarios incluidos
 
 1. **Escenario #1 - Charla #1**: Fundamentos de colecciones genéricas y su utilización básica en C#.
-2. **Escenario 2 - TryCatch**: Manejo robusto de excepciones aplicadas a operaciones con colecciones.
+2. **Escenario 2 - ErrorCatcher**: Manejo robusto de excepciones aplicadas a operaciones con colecciones.
 3. **Escenario #3**: Casos de uso avanzados y aplicaciones prácticas.
 
 ---
@@ -74,7 +74,7 @@ Introduce los conceptos básicos de colecciones genéricas:
 - Iteración sobre colecciones
 - Ventajas de las colecciones genéricas
 
-### Escenario 2 - TryCatch
+### Escenario 2 - ErrorCatcher
 Demuestra el manejo robusto de excepciones:
 - Bloques `try-catch` en operaciones con colecciones
 - Manejo de excepciones específicas
